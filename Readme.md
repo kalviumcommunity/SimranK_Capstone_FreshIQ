@@ -142,6 +142,7 @@ If there is enough time after implementing these features, I would optionally ad
 - **Environment**: Production optimized build
 
 ### Backend Deployment (Render)
+- **URL**: [https://render.com/]
 - **Database**: MongoDB Atlas
 - **Caching**: Redis Cloud
 - **File Storage**: Cloudinary
